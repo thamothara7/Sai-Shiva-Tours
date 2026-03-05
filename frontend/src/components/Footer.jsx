@@ -14,7 +14,7 @@ const Footer = () => {
                     <div>
                         <div className="flex items-center gap-3 mb-4">
                             <FaOm className="text-3xl text-gold" />
-                            <h3 className="text-2xl font-serif font-bold text-gold">Sai Shiva Tours</h3>
+                            <h3 className="text-2xl font-serif font-bold text-gold">KNK Trip Cart</h3>
                         </div>
                         <p className="text-cream/70 text-sm leading-relaxed">
                             Your trusted partner in spiritual and enjoyable travel for more than a decade. Combining luxury, convenience, and unforgettable experiences.
@@ -58,7 +58,7 @@ const Footer = () => {
             {/* Bottom bar */}
             <div className="border-t border-cream/10">
                 <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row justify-between items-center text-cream/50 text-xs">
-                    <p>&copy; {new Date().getFullYear()} Sai Shiva Tours. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} KNK Trip Cart. All rights reserved.</p>
                 </div>
             </div>
         </footer>

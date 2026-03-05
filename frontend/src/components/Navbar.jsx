@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import { FaMoon, FaSun, FaBars, FaTimes, FaOm } from 'react-icons/fa';
+import { FaMoon, FaSun, FaBars, FaTimes, FaPlane } from 'react-icons/fa';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const Navbar = () => {
@@ -37,7 +37,7 @@ const Navbar = () => {
         <>
             {/* Top decorative bar */}
             <div className="bg-maroon text-cream text-xs text-center py-1.5 tracking-widest font-semibold">
-                🙏 OM SAI RAM — Your Trusted Spiritual Travel Partner Since 2010 🙏
+                Your Premium Travel Partner — Explore the World with KNK Trip Cart
             </div>
 
             <nav className={`sticky top-0 z-50 transition-all duration-500 ${scrolled
@@ -52,14 +52,14 @@ const Navbar = () => {
 
                         {/* Logo */}
                         <Link to="/" className="flex items-center gap-3 group">
-                            <motion.div whileHover={{ rotate: 360 }} transition={{ duration: 0.6 }}>
-                                <FaOm className="text-3xl text-saffron group-hover:text-gold transition-colors" />
+                            <motion.div whileHover={{ rotate: 180 }} transition={{ duration: 0.6 }}>
+                                <FaPlane className="text-3xl text-saffron group-hover:text-gold transition-colors" />
                             </motion.div>
                             <div>
                                 <span className="text-2xl font-serif font-bold text-maroon dark:text-gold tracking-wide">
-                                    Sai Shiva Tours
+                                    KNK Trip Cart
                                 </span>
-                                <p className="text-[10px] text-gold tracking-[0.2em] uppercase -mt-1">Spiritual Journey Experts</p>
+                                <p className="text-[10px] text-gold tracking-[0.2em] uppercase -mt-1">Premium Travel Services</p>
                             </div>
                         </Link>
 

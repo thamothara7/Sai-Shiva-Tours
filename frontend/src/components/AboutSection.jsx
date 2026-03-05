@@ -65,10 +65,10 @@ const AboutSection = () => {
                         transition={{ duration: 0.8 }}
                     >
                         <p className="text-base text-maroon/80 dark:text-cream/80 mb-6 leading-relaxed">
-                            Welcome to Sai Shiva Tours, your trusted partner in spiritual and enjoyable travel for more than a decade. With over a decade of expertise, we specialise in providing comprehensive travel options that combine luxury, convenience, and unforgettable experiences. Our services provide a wide range of travel needs, such as lodging, one-day excursions, hill station tours, South and North India tours, and spiritual retreat packages.
+                            Welcome to KNK Trip Cart, your trusted partner in spiritual and enjoyable travel for more than a decade. With over a decade of expertise, we specialise in providing comprehensive travel options that combine luxury, convenience, and unforgettable experiences. Our services provide a wide range of travel needs, such as lodging, one-day excursions, hill station tours, South and North India tours, and spiritual retreat packages.
                         </p>
                         <p className="text-base text-maroon/80 dark:text-cream/80 mb-8 leading-relaxed">
-                            At Sai Shiva Tours, we understand the special needs of our customers, particularly seniors. Our special care services ensure that senior citizens have a safe, comfortable, and hassle-free voyage.
+                            At KNK Trip Cart, we understand the special needs of our customers, particularly seniors. Our special care services ensure that senior citizens have a safe, comfortable, and hassle-free voyage.
                         </p>
 
                         {/* Vision & Mission */}

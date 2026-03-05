@@ -17,7 +17,7 @@ const testimonials = [
         id: 2,
         name: "Ravi Krishnan",
         rating: 5,
-        content: "Our Kasi Vishwanath Yatra was a life-changing experience. The Ganga Aarti arrangements were perfect. Sai Shiva Tours made everything seamless.",
+        content: "Our Kasi Vishwanath Yatra was a life-changing experience. The Ganga Aarti arrangements were perfect. KNK Trip Cart made everything seamless.",
         role: "Spiritual Yatra"
     },
     {
@@ -31,7 +31,7 @@ const testimonials = [
         id: 4,
         name: "Meenakshi Ammal",
         rating: 5,
-        content: "As a senior citizen, I was worried about the long journey. But Sai Shiva Tours took exceptional care. They are truly like family. Om Sai Ram!",
+        content: "As a senior citizen, I was worried about the long journey. But KNK Trip Cart took exceptional care. They are truly like family. Om Sai Ram!",
         role: "Senior Traveler"
     }
 ];
